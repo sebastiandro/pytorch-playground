@@ -1,0 +1,4 @@
+*.pth
+data/
+faces/
+.ipynb_checkpoints
